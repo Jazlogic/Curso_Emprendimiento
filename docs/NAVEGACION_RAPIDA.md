@@ -18,8 +18,8 @@
 - **[Módulo 9: Liderazgo y Gestión de Equipos](senior_2/README.md)** - Liderazgo efectivo, cultura empresarial, desarrollo de talento
 - **[Módulo 10: Innovación y Disrupción](senior_3/README.md)** - I+D, innovación disruptiva, adaptación al cambio
 - **[Módulo 11: Legal y Compliance](senior_4/README.md)** - Aspectos legales, contratos, propiedad intelectual, compliance
-- **[Módulo 12: Tecnología y Digitalización](senior_5/README.md)** - Transformación digital, automatización, sistemas
-- **[Módulo 13: Internacionalización](senior_6/README.md)** - Expansión global, mercados internacionales, localización
+- **[Módulo 12: Emprendimiento Global y Mercados Internacionales](senior_5/README.md)** - Expansión global, mercados internacionales, estrategias de internacionalización
+- **[Módulo 13: Internacionalización](senior_6/README.md)** - Estrategias de entrada, análisis de mercados, adaptación de productos, operaciones globales
 - **[Módulo 14: Construcción de Imperios](senior_7/README.md)** - Holding companies, diversificación, adquisiciones estratégicas
 - **[Módulo 15: Legado y Sostenibilidad](senior_8/README.md)** - Sostenibilidad, impacto social, legado empresarial
 - **[Módulo 16: Maestría Empresarial](senior_9/README.md)** - Dominio completo, mejores prácticas, liderazgo empresarial
@@ -114,6 +114,7 @@
 - **Emprendimiento en Software**: [expert_1](expert_1/README.md)
 
 ### **🌍 Expansión y Crecimiento**
+- **Emprendimiento Global**: [senior_5](senior_5/README.md)
 - **Internacionalización**: [senior_6](senior_6/README.md)
 - **Construcción de Imperios**: [senior_7](senior_7/README.md)
 - **Maestría Empresarial**: [senior_9](senior_9/README.md)

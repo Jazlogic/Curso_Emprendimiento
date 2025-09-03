@@ -159,23 +159,35 @@
 - **Ejercicios**: 10 ejercicios legales prácticos
 - **Proyecto Integrador**: Framework Legal Empresarial
 
-#### **Módulo 12: Tecnología y Digitalización** 📍 `docs/senior_5/README.md`
-- **Estado**: 🚧 En desarrollo
+#### **Módulo 12: Emprendimiento Global y Mercados Internacionales** 📍 `docs/senior_5/README.md`
+- **Estado**: ✅ Completado
 - **Contenido**:
-  - Transformación digital
-  - Automatización empresarial
-  - Sistemas de información
-  - Inteligencia artificial
-  - Blockchain y criptomonedas
-  - IoT y tecnologías emergentes
-  - Ciberseguridad
-- **Ejercicios**: 10 ejercicios de digitalización
-- **Proyecto Integrador**: Transformación Digital Empresarial
+  - Fundamentos del emprendimiento global
+  - Estrategias de internacionalización
+  - Análisis de mercados internacionales
+  - Gestión de operaciones globales
+  - Compliance y regulaciones internacionales
+  - Localización y adaptación cultural
+  - Construcción de redes internacionales
+  - Financiamiento y inversión global
+  - Gestión de riesgos internacionales
+- **Ejercicios**: 10 ejercicios de emprendimiento global
+- **Proyecto Integrador**: Plan de Expansión Global
 
 #### **Módulo 13: Internacionalización** 📍 `docs/senior_6/README.md`
-- **Estado**: 🚧 En desarrollo
+- **Estado**: ✅ Completado
 - **Contenido**:
-  - Expansión global
+  - Estrategias de entrada a mercados internacionales
+  - Análisis y evaluación de mercados globales
+  - Adaptación de productos y servicios
+  - Gestión de operaciones internacionales
+  - Marketing global y localización cultural
+  - E-commerce y canales digitales globales
+  - Gestión legal y fiscal internacional
+  - Construcción de equipos y partnerships globales
+  - Escalamiento y optimización global
+- **Ejercicios**: 10 ejercicios de internacionalización
+- **Proyecto Integrador**: Plan de Internacionalización
   - Mercados internacionales
   - Localización y adaptación
   - Regulaciones internacionales
@@ -247,7 +259,7 @@
 
 ### **🟢 Nivel Junior**: 0/3 módulos (0%) 🚧 **EN DESARROLLO**
 ### **🟡 Nivel Mid-Level**: 0/4 módulos (0%) 🚧 **EN DESARROLLO**
-### **🔴 Nivel Senior**: 0/9 módulos (0%) 🚧 **EN DESARROLLO**
+### **🔴 Nivel Senior**: 2/9 módulos (22%) 🚧 **EN DESARROLLO**
 ### **🚀 Nivel Expert**: 0/1 módulos (0%) 🚧 **EN DESARROLLO**
 
 **🎯 Curso en Desarrollo - 17 Módulos, 170 Clases Planificadas**

@@ -1,208 +1,172 @@
-# Módulo 8: Escalamiento y Crecimiento - Nivel Senior
+# Módulo 8: Liderazgo y Gestión de Equipos
 
-## Descripción
-Módulo avanzado que enseña estrategias de escalamiento empresarial, crecimiento exponencial, franchising, adquisiciones y expansión geográfica. Incluye diversificación de productos, alianzas estratégicas y métricas de escalamiento.
+## Descripción del Módulo
+Este módulo se enfoca en desarrollar las habilidades de liderazgo esenciales para dirigir equipos de alto rendimiento, construir una cultura empresarial sólida y gestionar el talento humano de manera efectiva. Aprenderás a liderar con propósito, motivar equipos, resolver conflictos y crear un ambiente de trabajo que impulse la innovación y el crecimiento.
 
 ## Objetivos del Módulo
-- Desarrollar estrategias de crecimiento exponencial
-- Implementar modelos de franchising
-- Ejecutar adquisiciones y fusiones
-- Expandir geográficamente
-- Diversificar productos y servicios
-- Crear alianzas estratégicas
-- Optimizar métricas de escalamiento
+- Desarrollar habilidades de liderazgo transformacional y situacional
+- Aprender a construir y gestionar equipos de alto rendimiento
+- Dominar técnicas de comunicación efectiva y feedback constructivo
+- Implementar estrategias de motivación y retención de talento
+- Gestionar conflictos y cambios organizacionales
+- Crear una cultura empresarial sólida y alineada con la visión
+- Desarrollar habilidades de coaching y mentoring
+- Implementar sistemas de evaluación y desarrollo de equipos
 
 ## Prerrequisitos
-- Completar Módulos 1-7 (Nivel Mid-Level)
-- Negocio establecido y funcionando
-- Experiencia en gestión empresarial
-- Recursos para inversión en crecimiento
+- Completar Módulo 7: Operaciones y Gestión
+- Conocimientos básicos de psicología organizacional
+- Experiencia previa trabajando en equipos
+- Comprensión de la estructura organizacional
 
 ## Tecnologías y Herramientas
-- **Tableau**: Análisis de datos y visualización
-- **Salesforce**: CRM empresarial
-- **HubSpot**: Marketing y ventas
-- **Slack**: Comunicación de equipos
-- **Zoom**: Videollamadas internacionales
-- **DocuSign**: Contratos y acuerdos
-- **Monday.com**: Gestión de proyectos
+- Herramientas de gestión de equipos (Slack, Microsoft Teams, Asana)
+- Plataformas de evaluación 360° (SurveyMonkey, Culture Amp)
+- Software de gestión de recursos humanos (BambooHR, Workday)
+- Herramientas de comunicación y colaboración
+- Sistemas de gestión del rendimiento
+- Plataformas de aprendizaje y desarrollo
 
 ## Estructura del Módulo
 
-### 📚 Clases Disponibles
+| Clase | Tema | Duración | Tipo |
+|-------|------|----------|------|
+| 1 | Fundamentos del Liderazgo Efectivo | 2 horas | Teórica |
+| 2 | Construcción de Equipos de Alto Rendimiento | 2 horas | Teórica |
+| 3 | Comunicación y Feedback Efectivo | 2 horas | Teórica |
+| 4 | Motivación y Retención de Talento | 2 horas | Teórica |
+| 5 | Gestión de Conflictos y Negociación | 2 horas | Teórica |
+| 6 | Coaching y Mentoring | 2 horas | Teórica |
+| 7 | Cultura Empresarial y Valores | 2 horas | Teórica |
+| 8 | Gestión del Cambio Organizacional | 2 horas | Teórica |
+| 9 | Evaluación y Desarrollo de Equipos | 2 horas | Teórica |
+| 10 | Proyecto Integrador: Liderazgo en Acción | 3 horas | Práctica |
 
-| Clase | Título | Descripción | Duración Estimada |
-|-------|--------|-------------|-------------------|
-| [Clase 1](clase_1_estrategias_crecimiento.md) | Estrategias de Crecimiento Exponencial | Modelos de crecimiento, viral loops, network effects | 3-4 horas |
-| [Clase 2](clase_2_franchising_licencias.md) | Franchising y Licencias | Modelos de franquicia, licencias, expansión | 3-4 horas |
-| [Clase 3](clase_3_adquisiciones_fusiones.md) | Adquisiciones y Fusiones | Due diligence, integración, sinergias | 3-4 horas |
-| [Clase 4](clase_4_expansion_geografica.md) | Expansión Geográfica | Mercados internacionales, localización, regulaciones | 3-4 horas |
-| [Clase 5](clase_5_diversificacion_productos.md) | Diversificación de Productos | Nuevos productos, servicios, mercados | 2-3 horas |
-| [Clase 6](clase_6_alianzas_estrategicas.md) | Alianzas Estratégicas | Partnerships, joint ventures, colaboraciones | 2-3 horas |
-| [Clase 7](clase_7_metricas_escalamiento.md) | Métricas de Escalamiento | KPIs de crecimiento, análisis, optimización | 2-3 horas |
-| [Clase 8](clase_8_financiamiento_crecimiento.md) | Financiamiento para Crecimiento | Capital de crecimiento, deuda, equity | 3-4 horas |
-| [Clase 9](clase_9_gestion_crecimiento.md) | Gestión del Crecimiento | Liderazgo en crecimiento, cultura, procesos | 3-4 horas |
-| [Clase 10](clase_10_plan_escalamiento.md) | Plan de Escalamiento Empresarial | Integración de estrategias, timeline, recursos | 3-4 horas |
+## Navegación Rápida
+- [Clase 1: Fundamentos del Liderazgo Efectivo](clase_1_fundamentos_liderazgo_efectivo.md)
+- [Clase 2: Construcción de Equipos de Alto Rendimiento](clase_2_construccion_equipos_alto_rendimiento.md)
+- [Clase 3: Comunicación y Feedback Efectivo](clase_3_comunicacion_feedback_efectivo.md)
+- [Clase 4: Motivación y Retención de Talento](clase_4_motivacion_retencion_talento.md)
+- [Clase 5: Gestión de Conflictos y Negociación](clase_5_gestion_conflictos_negociacion.md)
+- [Clase 6: Coaching y Mentoring](clase_6_coaching_mentoring.md)
+- [Clase 7: Cultura Empresarial y Valores](clase_7_cultura_empresarial_valores.md)
+- [Clase 8: Gestión del Cambio Organizacional](clase_8_gestion_cambio_organizacional.md)
+- [Clase 9: Evaluación y Desarrollo de Equipos](clase_9_evaluacion_desarrollo_equipos.md)
+- [Clase 10: Proyecto Integrador](clase_10_proyecto_integrador.md)
 
-## 🚀 Navegación Rápida
+## Contenido Detallado
 
-### **Empezar Aquí** → [Clase 1: Estrategias de Crecimiento Exponencial](clase_1_estrategias_crecimiento.md)
+### Clase 1: Fundamentos del Liderazgo Efectivo
+- Estilos de liderazgo y cuándo aplicarlos
+- Liderazgo transformacional vs transaccional
+- Liderazgo situacional y adaptativo
+- Características de un líder efectivo
+- Desarrollo de la inteligencia emocional
+- Liderazgo basado en valores
 
-### **Continuar con** → [Clase 2: Franchising y Licencias](clase_2_franchising_licencias.md)
+### Clase 2: Construcción de Equipos de Alto Rendimiento
+- Fases de desarrollo de equipos
+- Roles y responsabilidades en equipos
+- Diversidad e inclusión en equipos
+- Técnicas de team building
+- Gestión de equipos virtuales
+- Métricas de rendimiento de equipos
 
-### **Estrategias de Expansión** → [Clase 3: Adquisiciones y Fusiones](clase_3_adquisiciones_fusiones.md) → [Clase 4: Expansión Geográfica](clase_4_expansion_geografica.md)
+### Clase 3: Comunicación y Feedback Efectivo
+- Comunicación asertiva y empática
+- Técnicas de escucha activa
+- Feedback constructivo y desarrollo
+- Comunicación en crisis
+- Presentaciones efectivas
+- Comunicación intercultural
 
-### **Diversificación y Alianzas** → [Clase 5: Diversificación de Productos](clase_5_diversificacion_productos.md) → [Clase 6: Alianzas Estratégicas](clase_6_alianzas_estrategicas.md)
+### Clase 4: Motivación y Retención de Talento
+- Teorías de motivación
+- Factores de motivación intrínseca y extrínseca
+- Estrategias de retención de talento
+- Desarrollo de carrera profesional
+- Reconocimiento y recompensas
+- Work-life balance
 
-### **Métricas y Financiamiento** → [Clase 7: Métricas de Escalamiento](clase_7_metricas_escalamiento.md) → [Clase 8: Financiamiento para Crecimiento](clase_8_financiamiento_crecimiento.md)
+### Clase 5: Gestión de Conflictos y Negociación
+- Tipos de conflictos organizacionales
+- Técnicas de resolución de conflictos
+- Negociación win-win
+- Mediación y arbitraje
+- Gestión de conflictos culturales
+- Prevención de conflictos
 
-### **Gestión** → [Clase 9: Gestión del Crecimiento](clase_9_gestion_crecimiento.md)
+### Clase 6: Coaching y Mentoring
+- Diferencias entre coaching y mentoring
+- Técnicas de coaching efectivo
+- Desarrollo de programas de mentoring
+- Coaching para el rendimiento
+- Coaching para el desarrollo
+- Evaluación del impacto del coaching
 
-### **Plan Integral** → [Clase 10: Plan de Escalamiento Empresarial](clase_10_plan_escalamiento.md)
+### Clase 7: Cultura Empresarial y Valores
+- Definición y elementos de la cultura
+- Alineación de valores con la estrategia
+- Comunicación de la cultura
+- Medición de la cultura organizacional
+- Cambio cultural
+- Cultura de innovación
 
-## 📋 Contenido Detallado
+### Clase 8: Gestión del Cambio Organizacional
+- Modelos de gestión del cambio
+- Resistencia al cambio
+- Comunicación del cambio
+- Liderazgo del cambio
+- Gestión de la transición
+- Sostenibilidad del cambio
 
-### **Clase 1: Estrategias de Crecimiento Exponencial**
-- Modelos de crecimiento exponencial
-- Viral loops y network effects
-- Product-led growth
-- Growth hacking avanzado
+### Clase 9: Evaluación y Desarrollo de Equipos
+- Sistemas de evaluación 360°
+- Evaluación del rendimiento
+- Planes de desarrollo individual
+- Desarrollo de competencias
+- Gestión del talento
+- Sucesión y planificación
 
-### **Clase 2: Franchising y Licencias**
-- Modelos de franquicia
-- Sistemas de licencias
-- Expansión mediante franquicias
-- Gestión de franquiciados
+### Clase 10: Proyecto Integrador
+- Desarrollo de un plan de liderazgo personal
+- Implementación de estrategias de gestión de equipos
+- Creación de un programa de desarrollo organizacional
+- Evaluación y mejora continua
 
-### **Clase 3: Adquisiciones y Fusiones**
-- Due diligence
-- Proceso de adquisición
-- Integración post-adquisición
-- Sinergias y valor
-
-### **Clase 4: Expansión Geográfica**
-- Mercados internacionales
-- Localización y adaptación
-- Regulaciones internacionales
-- Gestión de operaciones globales
-
-### **Clase 5: Diversificación de Productos**
-- Nuevos productos y servicios
-- Expansión a nuevos mercados
-- Gestión de portafolio
-- Innovación continua
-
-### **Clase 6: Alianzas Estratégicas**
-- Partnerships estratégicos
-- Joint ventures
-- Colaboraciones
-- Ecosistemas empresariales
-
-### **Clase 7: Métricas de Escalamiento**
-- KPIs de crecimiento
-- Análisis de métricas
-- Optimización de crecimiento
-- Reportes de escalamiento
-
-### **Clase 8: Financiamiento para Crecimiento**
-- Capital de crecimiento
-- Deuda vs equity
-- Financiamiento alternativo
-- Estructuración de deals
-
-### **Clase 9: Gestión del Crecimiento**
-- Liderazgo en crecimiento
-- Cultura de escalamiento
-- Procesos escalables
-- Gestión de equipos en crecimiento
-
-### **Clase 10: Plan de Escalamiento Empresarial**
-- Integración de estrategias
-- Timeline de crecimiento
-- Recursos necesarios
-- Implementación
-
-## 🎯 Resultados del Aprendizaje
-
+## Resultados de Aprendizaje
 Al completar este módulo, serás capaz de:
+- Liderar equipos de manera efectiva y adaptativa
+- Construir y mantener equipos de alto rendimiento
+- Comunicar de manera clara y empática
+- Motivar y retener talento clave
+- Resolver conflictos de manera constructiva
+- Implementar programas de coaching y mentoring
+- Crear y mantener una cultura empresarial sólida
+- Gestionar cambios organizacionales exitosamente
+- Evaluar y desarrollar equipos de manera continua
 
-✅ **Desarrollar estrategias** de crecimiento exponencial
-✅ **Implementar modelos** de franchising
-✅ **Ejecutar adquisiciones** y fusiones
-✅ **Expandir geográficamente** tu negocio
-✅ **Diversificar productos** y servicios
-✅ **Crear alianzas** estratégicas
-✅ **Optimizar métricas** de escalamiento
-✅ **Obtener financiamiento** para crecimiento
-✅ **Gestionar el crecimiento** empresarial
-✅ **Crear planes** de escalamiento integrales
+## Herramientas y Recursos
+- Libros: "The 7 Habits of Highly Effective People", "Good to Great"
+- Herramientas: Slack, Microsoft Teams, Asana, Culture Amp
+- Certificaciones: PMP, Agile Leadership, Coaching
+- Comunidades: LinkedIn Learning, Harvard Business Review
 
-## 🛠️ Herramientas y Recursos
+## Evaluación
+- Participación en discusiones: 20%
+- Ejercicios prácticos: 30%
+- Proyecto integrador: 40%
+- Autoevaluación: 10%
 
-### **Herramientas de Análisis**
-- [Tableau](https://www.tableau.com/) - Visualización de datos
-- [Power BI](https://powerbi.microsoft.com/) - Business intelligence
-- [Google Analytics](https://analytics.google.com/) - Análisis web
-- [Mixpanel](https://mixpanel.com/) - Product analytics
-
-### **Herramientas de Gestión**
-- [Salesforce](https://www.salesforce.com/) - CRM empresarial
-- [HubSpot](https://www.hubspot.com/) - Marketing y ventas
-- [Monday.com](https://monday.com/) - Gestión de proyectos
-- [Asana](https://asana.com/) - Project management
-
-### **Herramientas de Comunicación**
-- [Slack](https://slack.com/) - Comunicación de equipos
-- [Zoom](https://zoom.us/) - Videollamadas
-- [Microsoft Teams](https://teams.microsoft.com/) - Colaboración
-- [DocuSign](https://www.docusign.com/) - Contratos digitales
-
-### **Recursos de Aprendizaje**
-- [Harvard Business Review](https://hbr.org/topic/strategy) - Estrategia empresarial
-- [McKinsey](https://www.mckinsey.com/) - Consultoría estratégica
-- [BCG](https://www.bcg.com/) - Estrategia y crecimiento
-- [Bain](https://www.bain.com/) - Consultoría de gestión
-
-## 📝 Evaluación y Práctica
-
-### **Ejercicios por Clase**
-Cada clase incluye ejercicios prácticos para reforzar el aprendizaje:
-- Ejercicios de estrategia de crecimiento
-- Análisis de casos de escalamiento
-- Desarrollo de planes de expansión
-- Análisis de métricas
-
-### **Proyecto Final del Módulo**
-Al completar todas las clases, desarrollarás un **Plan de Escalamiento Empresarial** completo para tu negocio.
-
-## 🚀 Próximos Pasos
-
-Después de completar este módulo, estarás listo para continuar con:
-
-- **Módulo 9**: Liderazgo y Gestión de Equipos
-- **Módulo 10**: Innovación y Disrupción
-- **Módulo 11**: Legal y Compliance
-
-## 💡 Consejos para el Éxito
-
-1. **Planifica el crecimiento**: El crecimiento sin plan es caos
-2. **Mide todo**: Los datos guían las decisiones de crecimiento
-3. **Invierte en sistemas**: Los procesos deben escalar contigo
-4. **Mantén la cultura**: La cultura se diluye con el crecimiento
-5. **Gestiona el cambio**: El crecimiento requiere adaptación constante
+## Próximos Pasos
+Después de completar este módulo, estarás listo para:
+- **Módulo 9**: Innovación y Desarrollo de Productos
+- Aplicar habilidades de liderazgo en proyectos reales
+- Desarrollar programas de gestión del talento
+- Implementar cambios organizacionales
 
 ---
 
-## 🎉 ¡Escala tu empresa!
-
-**Primera clase**: [Clase 1: Estrategias de Crecimiento Exponencial](clase_1_estrategias_crecimiento.md)
-
-**Duración total del módulo**: 30-40 horas (dependiendo de tu ritmo de aprendizaje)
-
-**Nivel de dificultad**: Senior
-
-**Requisitos previos**: Módulos 1-7 completados + Negocio establecido
-
----
-
-*¡Es hora de escalar tu empresa al siguiente nivel! 🚀*
+**Duración Total del Módulo**: 21 horas
+**Nivel**: Senior
+**Próximo Módulo**: Módulo 9 - Innovación y Desarrollo de Productos
